@@ -1,6 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* poems and songs */
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p{
 	text-align: initial;
@@ -28,7 +29,9 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+/* end of poems and songs */
 
+/* letters */
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -38,14 +41,7 @@ footer{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:salutation"]{
-	font-style: italic;
-	text-align: center;
-	text-indent: 0;
-}
-
 [epub|type~="z3998:salutation"] + p{
-	margin-top: 0.5em;
 	text-indent: 0;
 }
 
@@ -54,3 +50,23 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+/* end of letters*/
+
+/* prologue footer */
+#prologue blockquote > footer > [epub|type~="z3998:sender"]{
+	text-align: right;
+}
+/* end of prologue footer*/
+
+/* chp 2-5 letter */
+#chapter-2-5 [epub|type~="z3998:salutation"]{
+	font-style: italic;
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-2-5 [epub|type~="z3998:salutation"] + p{
+	margin-top: 1em;
+	text-indent: 0;
+}
+/* end of chp 2-5 letter */
