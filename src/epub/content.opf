@@ -59,7 +59,8 @@
 		<meta property="term" refines="#subject-7">sh2007100265</meta>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008108737</meta>
-		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">During the War of the Roses, a young knight must rescue his lady and find out who killed his father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Richard “Dick” Shelton fights in the service of Sir Daniel, an unprincipled knight who continually changes sides in the War of the Roses. Dick helps a young lady, dressed as a man, who is escaping Sir Daniel’s attempt to marry her off. In the meantime, Dick suspects that the man he serves had a hand in killing his father, and must figure out who his real friends are.&lt;/p&gt;
