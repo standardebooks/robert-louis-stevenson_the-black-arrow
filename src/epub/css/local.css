@@ -53,7 +53,7 @@ footer{
 /* end of letters */
 
 /* prologue footer */
-#prologue blockquote > footer > [epub|type~="z3998:sender"]{
+#prologue [epub|type~="z3998:sender"]{
 	text-align: right;
 }
 /* end of prologue footer */
