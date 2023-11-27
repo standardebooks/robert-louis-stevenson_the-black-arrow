@@ -69,7 +69,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32954</dc:source>
 		<dc:source>https://archive.org/details/blackarrow0000robe_n2s6</dc:source>
-		<meta property="se:word-count">79925</meta>
+		<meta property="se:word-count">79933</meta>
 		<meta property="se:reading-ease.flesch">79.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Arrow:_A_Tale_of_the_Two_Roses</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_the-black-arrow</meta>
