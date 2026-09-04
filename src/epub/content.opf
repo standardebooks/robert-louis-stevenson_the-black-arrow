@@ -38,13 +38,13 @@
 		<meta property="file-as" refines="#fulltitle">Black Arrow, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">Knights and knighthood -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Knights and knighthood--Fiction</dc:subject>
 		<dc:subject id="subject-3">War stories</dc:subject>
 		<dc:subject id="subject-4">Bildungsromans</dc:subject>
-		<dc:subject id="subject-5">Young men -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Guardian and ward -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Outlaws -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Young men--Fiction</dc:subject>
+		<dc:subject id="subject-6">Guardian and ward--Fiction</dc:subject>
+		<dc:subject id="subject-7">Great Britain--History--Wars of the Roses, 1455-1485--Fiction</dc:subject>
+		<dc:subject id="subject-8">Outlaws--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
